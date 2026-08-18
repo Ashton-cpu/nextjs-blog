@@ -11,8 +11,7 @@ export default function Home() {
 
       <section className={utilStyles.headingMd}>
         <p>
-          Hello! My name is Ashton Martin Zablan. I am currently learning Next.js and web
-          development.
+          Hello! My name is Ashton Martin Zablan. My hobbies is running, workout, watching movies, and playing games, and favorite music is opms songs, favorite food is ramen, and lastly where I see in myself in 5 years is a successful person in life.
         </p>
 
         <p>
